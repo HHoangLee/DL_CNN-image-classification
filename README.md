@@ -1,5 +1,5 @@
 # DL_CNN-image-classification
-This project implements a simple Convolutional Neural Network (CNN) for classifying animal images using PyTorch. It is trained on three classes: cat, dog, butterfly.
+This project implements a simple Convolutional Neural Network (CNN) for classifying animal images using PyTorch. It is trained on three classes: cat, dog, butterfly (CIFAR)
 
 🐾 CNN Image Classification (Cats, Dogs, Butterflies)
 This project implements a Convolutional Neural Network (CNN) using PyTorch to classify animal images into 3 categories: cat, dog, and butterfly.
