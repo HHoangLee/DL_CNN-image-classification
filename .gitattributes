@@ -1,0 +1,2 @@
+# Bỏ qua Jupyter Notebook trong thống kê ngôn ngữ
+*.ipynb linguist-vendored
